@@ -1,0 +1,36 @@
+.navbar {
+	margin-bottom: 0;
+}
+
+body {
+	background: #3E4649;
+	color: #f7f7f7;
+	font-family: 'Montserrat', sans-serif;
+}
+h1,
+h2 {
+	font-weight: bold;
+}
+p {
+	font-size: 16px;
+	color: #cdcdcd;
+}
+.jumbotron {
+	background: #e7e058;
+	color: white;
+	text-align: center;
+}
+.jumbotron p {
+	color: white;
+	font-size: 26px;
+}
+.floatleft {
+  float: left;
+  }
+p img {
+  width: 35%;
+  padding: 5px;
+}
+footer p {
+  text-align: center;
+}
